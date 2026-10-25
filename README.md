@@ -1,6 +1,6 @@
 ### Mateusz Jastrzębski
 
-MSc Quantitative Finance student at the University of Warsaw. Before that: a CS engineering degree at PJATK and a year as a developer (Java/Spring, Angular, Python). I work on machine learning for crypto markets, options and volatility, and the data tooling around both.
+MSc Quantitative Finance student at the University of Warsaw. Before that: a CS engineering degree at PJATK and work as a junior developer (Java/Spring, Angular, Python, SQL). I work on machine learning for crypto markets, options and volatility, and the data tooling around both.
 
 **Selected work**
 
