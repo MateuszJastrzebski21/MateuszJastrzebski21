@@ -32,4 +32,4 @@ MSc Quantitative Finance student at the University of Warsaw. Before that: a CS 
 </tr>
 </table>
 
-[LinkedIn](https://www.linkedin.com/in/mateusz-jastrz%C4%99bski-8a2622264/)
+[LinkedIn](https://www.linkedin.com/in/mateuszjastrzebski21/)
