@@ -6,7 +6,7 @@ MSc student in Quantitative Finance at the University of Warsaw. Before that I d
 
 My engineering thesis: can classical ML predict the 5-day direction of BTC? Five expanding walk-forward folds, each model trained only on the past and scored on the next 436 days it never saw. Below is the random forest's real out-of-sample output, fold by fold. The tree models find a signal that survives a block bootstrap (CI above 0.5); turning it into a strategy that beats buy-and-hold after costs is the open problem.
 
-<a href="https://github.com/MateuszJastrzebski21/btc-ml-pipeline"><img src="assets/btc-walk-forward.gif" alt="Animated walk-forward test: BTC price coloured by the random forest's out-of-sample probability of a 5-day rise, with each fold's AUC" width="100%"></a>
+<a href="https://github.com/MateuszJastrzebski21/btc-ml-pipeline"><img src="assets/btc-walk-forward.webp" alt="Animated walk-forward test: BTC price coloured by the random forest's out-of-sample probability of a 5-day rise, with each fold's AUC" width="100%"></a>
 
 <details>
 <summary><b>Results by model</b></summary>
@@ -27,15 +27,15 @@ Daily Binance bars 2019 to 2026, leakage tests in CI, every number reproducible 
 
 SPY implied volatility surface from listed option chains, solving Black-Scholes for σ with Brent's method. Featured in a Coding Jesus video. Recorded from the app on 12 Nov 2026: the spike at short expiries and low strikes is the skew.
 
-<a href="https://volatilitysurface.streamlit.app/"><img src="assets/iv-surface-rotate.gif" alt="Rotating the SPY implied volatility surface in the Streamlit app" width="100%"></a>
+<a href="https://volatilitysurface.streamlit.app/"><img src="assets/iv-surface-rotate.webp" alt="Rotating the SPY implied volatility surface in the Streamlit app" width="100%"></a>
 
 **[Open the live app](https://volatilitysurface.streamlit.app/)** and try another ticker.
 
 ### [TrackmaniaRL](https://github.com/TrackmaniaRL/TrackmaniaRL)
 
-Open-source reinforcement learning library for Trackmania 2020. I contributed to it, including a fix for the training loop learning from stale rollouts. The GIF is the trained agent driving, with the network's inputs and action choices on the right. More in the [r/reinforcementlearning launch post](https://www.reddit.com/r/reinforcementlearning/comments/1wc0a66/trackmaniarl_an_opensource_library_for_training/).
+Open-source reinforcement learning library for Trackmania 2020. I contributed to it, including a fix for the training loop learning from stale rollouts. The clip is the trained agent driving, with the network's inputs and action choices on the right. More in the [r/reinforcementlearning launch post](https://www.reddit.com/r/reinforcementlearning/comments/1wc0a66/trackmaniarl_an_opensource_library_for_training/).
 
-<img src="assets/trackmaniarl-drive.gif" alt="TrackmaniaRL agent driving a lap with its network activity shown alongside" width="100%">
+<img src="assets/trackmaniarl-drive.webp" alt="TrackmaniaRL agent driving a lap with its network activity shown alongside" width="100%">
 
 ### [job-market-intelligence](https://github.com/MateuszJastrzebski21/job-market-intelligence)
 
